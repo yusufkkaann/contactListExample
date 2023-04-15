@@ -1,0 +1,27 @@
+.btn-width{
+    width: 100%;
+}
+svg {
+    text-decoration: none;
+  }
+  .bi-linkedin {
+    text-decoration: none;
+  }
+  
+  .bi-github {
+    text-decoration: none;
+  }
+  
+  .bi-instagram {
+    text-decoration: none;
+  }
+  .icon{
+    size: 100px;
+    
+  }
+  .btn {
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    }
+    body {
+      background-color: #f0f0f0;
+    }

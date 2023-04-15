@@ -1,0 +1,10 @@
+.icon {
+   
+    font-size: 6em; /* Bu değeri ihtiyacınıza göre ayarlayın */
+    margin: 0 40px; /* Bu değeri ihtiyacınıza göre ayarlayın */
+  }
+  .col-sm-3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }  
